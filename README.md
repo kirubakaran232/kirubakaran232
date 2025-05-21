@@ -1,12 +1,8 @@
-<h1 align="center">Hi 👋, I'm KIRUBAKARAN I'M A FULLSTACK DEVELOPER</h1>
+<h1 align="center">HI 👋, I'm KIRUBAKARAN I'M A FULLSTACK DEVELOPER</h1>
 <h3 align="center">A PASSIONATE FULLSTACK DEVELOPER</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirubakaran232&label=Profile%20views&color=0e75b6&style=flat" alt="kirubakaran232" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirubakaran232" alt="kirubakaran232" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://kirubakaran-portfolio.vercel.app/](https://kirubakaran-portfolio.vercel.app/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kirubakaran s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirubakaran s" height="30" width="40" /></a>
