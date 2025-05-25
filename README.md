@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirubakaran232&label=Profile%20views&color=0e75b6&style=flat" alt="kirubakaran232" /> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=kirubakaran232)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirubakaran232" alt="kirubakaran232" /></a> </p>
 
 - 🔭 I’m currently working on **Tourism**
