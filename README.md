@@ -1,4 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=kirubakaran232)](https://github.com/ryo-ma/github-profile-trophy)
 <h1 align="center">HI 👋, I'M KIRUBAKARAN</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
 
