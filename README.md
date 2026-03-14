@@ -11,8 +11,6 @@
   <!-- Profile Views & Followers -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=kirubakaran232&label=👀+Profile+Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/kirubakaran232?label=⚡+Followers&color=FF6B6B&style=for-the-badge" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/kirubakaran232?label=⭐+Stars&color=FFD93D&style=for-the-badge" alt="Stars" />
   </p>
   
   <!-- Dynamic Banner -->
