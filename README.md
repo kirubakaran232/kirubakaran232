@@ -22,28 +22,6 @@
 
 ---
 
-<!-- 🐍 Animated Snake Eating Contributions -->
-<div align="center">
-  <h3>🐍 Snake Eating My Contributions</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
-<!-- 🎵 Spotify Now Playing -->
-<div align="center">
-  <h3>🎵 Vibing To</h3>
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=0D1117&interchange=true" alt="Spotify Now Playing" />
-  </a>
-</div>
-
----
-
 ## 📊 Real-Time Metrics
 
 <div align="center">
@@ -76,23 +54,12 @@
 + 🎵 Melodically - Music App
   └─ Status: In Progress ████████░░ 80%
 
-+ 🤖 AI Portfolio Assistant
-  └─ Status: Building    ██████░░░░ 60%
-
 + 📚 Learning ML Models
   └─ Status: Learning    █████░░░░░ 50%
 ```
 
       </td>
       <td width="50%" valign="top">
-
-### 📊 This Week's Focus
-```diff
-! 🔥 React Advanced Patterns
-! 🧠 Neural Networks Deep Dive
-! ☁️ AWS Cloud Architecture
-! 📱 Mobile-First Design
-```
 
       </td>
     </tr>
@@ -163,7 +130,7 @@
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A" alt="React" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000" alt="Next.js" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007ACC" alt="TypeScript" /></a>
+</a>
   <a href="#"><img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC" alt="Tailwind" /></a>
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5" /></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS3" /></a>
@@ -178,13 +145,6 @@
   <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=316192" alt="PostgreSQL" /></a>
 </p>
 
-### 🤖 AI / ML & Data
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00" alt="TensorFlow" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C" alt="PyTorch" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E" alt="Scikit-learn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458" alt="Pandas" /></a>
-</p>
 
 ### 🛠️ DevOps & Tools
 <p align="center">
@@ -200,7 +160,6 @@
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Vercel" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=00C7B7" alt="Netlify" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" alt="AWS" /></a>
 </p>
 
 </div>
@@ -298,10 +257,8 @@
   <p>
     <img src="https://img.shields.io/badge/🔥_Java_Development-Expert-FF6B6B?style=flat-square" />
     <img src="https://img.shields.io/badge/🌐_Full--Stack_Web-Advanced-4ECDC4?style=flat-square" />
-    <img src="https://img.shields.io/badge/🤖_AI_&_Machine_Learning-Learning-45B7D1?style=flat-square" />
     <img src="https://img.shields.io/badge/📊_Database_Design-Advanced-96CEB4?style=flat-square" />
     <img src="https://img.shields.io/badge/🎨_UI/UX_Design-Intermediate-FFEAA7?style=flat-square" />
-    <img src="https://img.shields.io/badge/☁️_Cloud_Architecture-Learning-DDA0DD?style=flat-square" />
     <img src="https://img.shields.io/badge/📱_Mobile_Responsive-Advanced-98D8C8?style=flat-square" />
     <img src="https://img.shields.io/badge/⚡_API_Development-Expert-F7DC6F?style=flat-square" />
   </p>
