@@ -57,28 +57,7 @@
 + 📚 Learning ML Models
   └─ Status: Learning    █████░░░░░ 50%
 ```
-
-      </td>
-      <td width="50%" valign="top">
-
-      </td>
-    </tr>
   </table>
-</div>
-
----
-
-## 🏆 Achievement Unlocked
-
-<div align="center">
-  
-  <!-- 3D Trophy Display -->
-  <img src="https://github-profile-trophy.vercel.app/?username=kirubakaran232&theme=discord&no-frame=false&no-bg=false&margin-w=6&margin-h=6&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-  
-  <!-- WakaTime Stats (if you have it) -->
-  <!-- Uncomment if you have WakaTime integration -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kirubakaran232&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" /> -->
-  
 </div>
 
 ---
@@ -86,11 +65,6 @@
 ## 📊 Dynamic GitHub Stats
 
 <div align="center">
-
-  <!-- 3D Contribution Calendar -->
-  <img src="https://github-contribution-grid.vercel.app/api?username=kirubakaran232&theme=tokyonight&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true" width="100%" alt="3D Contribution Graph" />
-
-  <br><br>
 
   <!-- Animated Stats Cards -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -129,7 +103,6 @@
 ### 🌐 Frontend Powerhouse
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A" alt="React" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000" alt="Next.js" /></a>
 </a>
   <a href="#"><img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC" alt="Tailwind" /></a>
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5" /></a>
@@ -150,7 +123,6 @@
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git" /></a>
   <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED" alt="Docker" /></a>
   <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC" alt="VS Code" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37" alt="Postman" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E" alt="Figma" /></a>
@@ -180,25 +152,6 @@
 ## 🌟 Featured Creations
 
 <div align="center">
-
-  <!-- Project Cards with Hover Effects -->
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/kirubakaran232/melodically">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirubakaran232&repo=melodically&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF6B6B&text_color=FFFFFF&border_radius=15" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/kirubakaran232/portfolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirubakaran232&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF6B6B&text_color=FFFFFF&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <!-- Portfolio Link -->
-  <br>
   
   <a href="https://kirubakaran-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&color=000000&labelColor=000000" width="300" />
@@ -221,14 +174,6 @@
     <a href="https://www.leetcode.com/kiruba1406" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116&color=FFA116" alt="LeetCode" />
     </a>
-    &nbsp;&nbsp;
-    <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2" alt="Twitter" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://dev.to/YOUR_DEVTO" target="_blank">
-      <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0A0A0A&color=0A0A0A" alt="Dev.to" />
-    </a>
   </p>
 
   <p>
@@ -238,10 +183,6 @@
     &nbsp;&nbsp;
     <a href="https://github.com/kirubakaran232" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" alt="GitHub" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://discord.gg/YOUR_DISCORD" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&color=5865F2" alt="Discord" />
     </a>
   </p>
 
@@ -259,8 +200,6 @@
     <img src="https://img.shields.io/badge/🌐_Full--Stack_Web-Advanced-4ECDC4?style=flat-square" />
     <img src="https://img.shields.io/badge/📊_Database_Design-Advanced-96CEB4?style=flat-square" />
     <img src="https://img.shields.io/badge/🎨_UI/UX_Design-Intermediate-FFEAA7?style=flat-square" />
-    <img src="https://img.shields.io/badge/📱_Mobile_Responsive-Advanced-98D8C8?style=flat-square" />
-    <img src="https://img.shields.io/badge/⚡_API_Development-Expert-F7DC6F?style=flat-square" />
   </p>
 
 </div>
@@ -298,13 +237,8 @@
   future me won't hate
 ```
 
-      </td>
-      <td>
-
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Coding GIF" />
 
-      </td>
-    </tr>
   </table>
 
 </div>
@@ -325,11 +259,6 @@
 ---
 
 <div align="center">
-
-  <!-- Animated Visitor Counter -->
-  <img src="https://profile-counter.glitch.me/kirubakaran232/count.svg" alt="Visitor Count" />
-  
-  <br><br>
   
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Kirubakaran-00D9FF?style=for-the-badge" alt="Made with love" />
   
