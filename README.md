@@ -136,17 +136,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirubakaran232&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35&area=true" width="100%" alt="Activity Graph" />
-  
-</div>
-
----
-
 ## 🌟 Featured Creations
 
 <div align="center">
