@@ -2,7 +2,7 @@
   
   <!-- Animated Typing Header with Glow Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&pause=800&color=00FFFF&center=true&vCenter=true&width=650&lines=Hey+👋+I'm+Kirubakaran!;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%A7%A9;Code+Craftsman+%E2%9C%A8;Welcome+to+my+Digital+Space!+%F0%9F%8C%8C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&pause=800&color=00FFFF&center=true&vCenter=true&width=650&lines=Hey+👋+I'm+Kirubakaran!;" alt="Typing SVG" />
   </a>
   
   <!-- Animated Line -->
@@ -40,25 +40,6 @@
 
 ---
 
-## 🎯 Current Mission Control
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-
-### 🚀 Active Projects
-```diff
-+ 🎵 Melodically - Music App
-  └─ Status: In Progress ████████░░ 80%
-
-+ 📚 Learning ML Models
-  └─ Status: Learning    █████░░░░░ 50%
-```
-  </table>
-</div>
-
----
 
 ## 📊 Dynamic GitHub Stats
 
@@ -67,10 +48,6 @@
   <!-- Animated Stats Cards -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kirubakaran232&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_radius=15&card_width=450" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirubakaran232&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=10&border_radius=15&card_width=450&hide=jupyter%20notebook" />
   </a>
 
 </div>
@@ -89,6 +66,8 @@
 ## 🛠️ Tech Arsenal
 
 <div align="center">
+
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Coding GIF" />
 
 ### 💻 Languages & Core
 <p align="center">
@@ -173,80 +152,4 @@
     </a>
   </p>
 
-</div>
-
----
-
-## 💬 Expertise Zone
-
-<div align="center">
-
-  <!-- Skill Cloud -->
-  <p>
-    <img src="https://img.shields.io/badge/🔥_Java_Development-Expert-FF6B6B?style=flat-square" />
-    <img src="https://img.shields.io/badge/🌐_Full--Stack_Web-Advanced-4ECDC4?style=flat-square" />
-    <img src="https://img.shields.io/badge/📊_Database_Design-Advanced-96CEB4?style=flat-square" />
-    <img src="https://img.shields.io/badge/🎨_UI/UX_Design-Intermediate-FFEAA7?style=flat-square" />
-  </p>
-
-</div>
-
----
-
-## 📜 Developer Quote
-
-<div align="center">
-
-  <!-- Random Dev Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&borderColor=00FFFF&bg_color=0D1117" width="85%" alt="Dev Quote" />
-
-</div>
-
----
-
-## 🎮 Fun Fact
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td>
-
-```
-  💡 Did You Know?
-  
-  I debug with console.log() 
-  and I'm not ashamed of it! 😄
-  
-  ☕ Coffee -> Code -> Repeat
-  
-  🎯 Goal: Write code that 
-  future me won't hate
-```
-
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Coding GIF" />
-
-  </table>
-
-</div>
-
----
-
-<div align="center">
-  
-  ### ✨ "First, solve the problem. Then, write the code." - John Johnson ✨
-  
-  <br>
-  
-  <!-- Animated Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Keep%20Coding!%20🚀&fontSize=40&fontAlignY=75&desc=See%20you%20in%20the%20next%20commit&descAlignY=92&animation=fadeIn" />
-  
-</div>
-
----
-
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Kirubakaran-00D9FF?style=for-the-badge" alt="Made with love" />
-  
 </div>
